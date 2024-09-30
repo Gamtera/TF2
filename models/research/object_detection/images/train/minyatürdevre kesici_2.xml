@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Devre Kesici</folder>
+	<filename>minyatürdevre kesici_2.jpg</filename>
+	<path>C:\Users\Burak\Desktop\Projeler\TF2\models\research\object_detection\veri_dizini\train\Devre Kesici\minyatürdevre kesici_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>141</width>
+		<height>140</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>devre_kesici</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>5</ymin>
+			<xmax>136</xmax>
+			<ymax>134</ymax>
+		</bndbox>
+	</object>
+</annotation>

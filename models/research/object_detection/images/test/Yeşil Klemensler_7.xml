@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Klemens</folder>
+	<filename>Yeşil Klemensler_7.jpg</filename>
+	<path>C:\Users\Burak\Desktop\Projeler\TF2\models\research\object_detection\veri_dizini\test\Klemens\Yeşil Klemensler_7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>138</width>
+		<height>140</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>klemens</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>10</ymin>
+			<xmax>112</xmax>
+			<ymax>123</ymax>
+		</bndbox>
+	</object>
+</annotation>

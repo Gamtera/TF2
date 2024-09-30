@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Kontaktör</folder>
+	<filename>kontaktör2_13.jpg</filename>
+	<path>C:\Users\Burak\Desktop\Projeler\TF2\models\research\object_detection\veri_dizini\test\Kontaktör\kontaktör2_13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>118</width>
+		<height>140</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kontaktor</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>2</ymin>
+			<xmax>118</xmax>
+			<ymax>139</ymax>
+		</bndbox>
+	</object>
+</annotation>

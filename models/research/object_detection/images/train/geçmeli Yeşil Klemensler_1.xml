@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Klemens</folder>
+	<filename>geçmeli Yeşil Klemensler_1.jpg</filename>
+	<path>C:\Users\Burak\Desktop\Projeler\TF2\models\research\object_detection\veri_dizini\train\Klemens\geçmeli Yeşil Klemensler_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>140</width>
+		<height>140</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>klemens</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>43</ymin>
+			<xmax>72</xmax>
+			<ymax>87</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>klemens</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>60</ymin>
+			<xmax>136</xmax>
+			<ymax>106</ymax>
+		</bndbox>
+	</object>
+</annotation>

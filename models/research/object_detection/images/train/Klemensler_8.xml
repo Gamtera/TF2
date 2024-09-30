@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Klemens</folder>
+	<filename>Klemensler_8.jpg</filename>
+	<path>C:\Users\Burak\Desktop\Projeler\TF2\models\research\object_detection\veri_dizini\train\Klemens\Klemensler_8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>140</width>
+		<height>140</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>klemens</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>8</ymin>
+			<xmax>140</xmax>
+			<ymax>128</ymax>
+		</bndbox>
+	</object>
+</annotation>
