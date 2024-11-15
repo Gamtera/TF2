@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train - Kopya</folder>
+	<filename>train_kontaktor_26.jpg</filename>
+	<path>C:\Users\Burak\Desktop\Projeler\TF2\models\research\object_detection\images\train - Kopya\train_kontaktor_26.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>124</width>
+		<height>140</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kontaktor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>3</ymin>
+			<xmax>121</xmax>
+			<ymax>136</ymax>
+		</bndbox>
+	</object>
+</annotation>

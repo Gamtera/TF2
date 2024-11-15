@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train - Kopya</folder>
+	<filename>train_inventer_surucu_12.jpg</filename>
+	<path>C:\Users\Burak\Desktop\Projeler\TF2\models\research\object_detection\images\train - Kopya\train_inventer_surucu_12.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>140</width>
+		<height>140</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>inventer_surucu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>33</ymin>
+			<xmax>82</xmax>
+			<ymax>111</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>inventer_surucu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>40</ymin>
+			<xmax>131</xmax>
+			<ymax>113</ymax>
+		</bndbox>
+	</object>
+</annotation>
